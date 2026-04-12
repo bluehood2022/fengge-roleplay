@@ -1,10 +1,11 @@
 # openclaw安装方法
-cd ~/.openclaw/skills
-git clone https://github.com/bluehood2022/fengge-roleplay.git fengge-roleplay
-openclaw skills enable fengge-roleplay
+> cd ~/.openclaw/skills
+> git clone https://github.com/bluehood2022/fengge-roleplay.git fengge-roleplay
+> openclaw skills enable fengge-roleplay
 
 # 其他平台
 直接下载文件放在对应的skill文件夹
+
 ---
 name: fengge-roleplay-3.0
 description: 峰哥亡命天涯角色扮演 Skill v3.0 - 基于完整人格画像 + 10,939 条真实语录 + 380 条精华知识库
